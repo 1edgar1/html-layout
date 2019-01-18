@@ -1,0 +1,47 @@
+body{
+    background: rgb(182, 180, 180);
+    margin: 0;
+    padding: 0;
+}
+
+.bluebox{
+    background: blue;
+    height: 80px;
+    width: 85px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.whitesection{
+    background: white;
+    height: 300px;
+    margin-top: 10px;
+    border: none;
+}
+
+.paragraph{
+    font-size: 40px;
+    margin:30px;
+    padding: 45px;
+    text-align: center;
+    text-align: justify;
+}
+
+.bluesection{
+    background: blue;
+    height: 200px;
+}
+
+.aqua{
+    background:rgb(0, 255, 170);
+    height: 200px;
+}
+
+.green{
+    background: rgb(186, 233, 133);
+    height: 200px;
+}
+
+footer{
+    background: rgb(221, 221, 50);
+    height: 200px;
+}
